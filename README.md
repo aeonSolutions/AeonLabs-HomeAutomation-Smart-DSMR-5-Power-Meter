@@ -47,7 +47,17 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
  <sup> A smart Meter with a P1 port from the utilities power company</sup>
 </p>
 
-#### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
+
+### Hardware Specifications
+
+- ExpressIF single core XTensa LX7 microcontroller (ESP32 C3)
+- Fingerprint ID technology for validation of data power measurments and increased trustworthiness. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
+- Power consumption of only 60nA when in standy
+- USB-C connectivity with Serial UART
+- 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
+
+
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
   While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository.
   
   <p align="center">
