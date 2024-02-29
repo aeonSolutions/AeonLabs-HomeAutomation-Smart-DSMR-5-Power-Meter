@@ -93,6 +93,11 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 - [Upgradable ESP32 MCU](https://github.com/aeonSolutions/AeonLabs-Upgradable-MCU-ESP32)
   
 <br />
+
+**Made by other Makers**
+- [esp32_p1meter](https://github.com/RoySpringer/esp32_p1meter) by [Roy Springer](https://github.com/RoySpringer)
+- [esp8266_p1meter](https://github.com/daniel-jong/esp8266_p1meter) by [Daniel de Jong](https://github.com/daniel-jong)
+- 
 <br />
 
 **Get a Notification on every PCB update**
