@@ -25,7 +25,9 @@
 Last update: 29-02-2024
 </p>
 
-# Smart DSMR 5+ PowerMeter
+# 🔸 Smart DSMR 5+ PowerMeter
+💬 🆕 There's a new Discord Server for this all other projects. to Join [click here](https://discord.gg/nYe9YMKf).<br>
+
 The Smart Power Meter made for the new DSRM 5+ power meters from the utility company
 
 <p align="center">
@@ -40,9 +42,29 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
  <sup>Click to view the latest revision</sup>
 </p>
 
-## status
-While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository.
+#### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
+  While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository.
+  
+  <p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
+</p>
 
+<br>
+
+
+### Sponsors
+ Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+
+<p align="center">
+    <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/want_to_become_a_sponsor.png">
+    </a>
+    <a href="https://github.com/sponsors/aeonSolutions">
+        <img height="40" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/become_a_github_sponsor.png">
+    </a>
+</p>
+
+<br>
 
 ## Compatibility
 
@@ -77,6 +99,25 @@ While i find time and resources to code the firmware for this smart meter, anyon
 
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
+
+### Legend
+🟢 **Hardware or firmware fully tested and working** <br>
+A green circle means the hardware electronics or the firmware programming code was fully tested, each of its functionalities and capabilities. And it can be installed in a vehicle. Keep in mind this does not mean errors won't happen. As in everything related to electronics and software, there are revisions and updates. This open hardware is no different.
+
+🟡 **Hardware or firmware not tested. Working capability is unknown, it may work or not.** <br>
+A yellow circle means the hardware electronics or the firmware programming code was not fully tested, each of its functionalities and capabilities. This does not mean it not working , it simply means testing is needed before giving a green circle of approval.  
+
+🔴 **Hardware or firmware fully tested but not working.** <br>
+A red circle means the hardware electronics or the firmware programming code was fully tested, and found some kind of critical error or fault. This means the electronics or firmware code cannot be used in a vehicle. 
+
+⌛ **Hardware Design / firmware programming not started.** <br>
+The hour glass means the hardware electronics or the firmware programming hasn't started. Most likely because is waiting for the necessary test components needed for reverse engineering and also engineering of the new open solution. 
+
+🆕 **New updated contents** <br>
+The new icon means the link next to it was recently updated with new contents 
+
+💬  **Comments on the Discussion page** <br>
+The comments icon means there are usefeul and even new comments on the [discussions page](https://github.com/aeonSolutions/AeonLabs-AI-Volvo-MKII-Open-Hardware/discussions) important for what you are seeing or reading.
 
 <br />
 <br />
