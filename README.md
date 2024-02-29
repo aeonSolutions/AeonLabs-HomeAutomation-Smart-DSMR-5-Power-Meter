@@ -42,6 +42,11 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
  <sup>Click to view the latest revision</sup>
 </p>
 
+<p align="center">
+  <img height="250px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-DSMR-5-Power-Meter/blob/main/media/Fluvius-Slimme-meter-DSMR-P1-poort-activeren.jpg"> <br>
+ <sup> A smart Meter with a P1 port from the utilities power company</sup>
+</p>
+
 #### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
   While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository.
   
