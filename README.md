@@ -40,6 +40,10 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
  <sup>Click to view the latest revision</sup>
 </p>
 
+## status
+While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository.
+
+
 ## Compatibility
 
 <p align="center">
