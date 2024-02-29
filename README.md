@@ -31,7 +31,7 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 <p align="center">
   <img width="335" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-DSMR-5-Power-Meter/blob/main/media/pcb_layout.png">
   <img width="335" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Smart-DSMR-5-Power-Meter/blob/main/media/pcb_layout_back.png"> <br>
-<sup>Figure 3 - Current pcb revision </sup>
+<sup>Figure 1 - Current pcb revision </sup>
 </p>
 
 <p align="center">
