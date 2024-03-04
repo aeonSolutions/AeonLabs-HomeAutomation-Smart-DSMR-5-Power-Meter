@@ -58,7 +58,11 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
-  While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository.
+  While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository alternatively use the new [DSMR Component](https://esphome.io/components/sensor/dsmr.html) from [ESPHome](https://esphome.io/).
+
+<p align="center">
+  <img height="30px" src="https://esphome.io/_static/logo-text.svg">
+</p>
   
   <p align="center">
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
