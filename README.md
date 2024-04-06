@@ -51,14 +51,14 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 ### Hardware Specifications
 
 - ExpressIF single core XTensa LX7 microcontroller (ESP32 C3)
-- Fingerprint ID technology for validation of data power measurments and increased trustworthiness. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
-- Power consumption of only 60nA when in standy
+- Fingerprint ID technology for validation of data power measurements and increased trustworthiness. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
+- Power consumption of only 60nA when in standby
 - USB-C connectivity with Serial UART
 - 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
 
 
-### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status: The  Smart DSMR 5+ PowerMeter is now for fabrication.
-  While i find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository alternatively use the new [DSMR Component](https://esphome.io/components/sensor/dsmr.html) from [ESPHome](https://esphome.io/).
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status: The  Smart DSMR 5+ PowerMeter is fully working.
+  While I find time and resources to code the firmware for this smart meter, anyone can use the code made available by [RoySpringer](https://github.com/RoySpringer) on his [esp32_p1meter]( https://github.com/RoySpringer/esp32_p1meter) repository alternatively use the new [DSMR Component](https://esphome.io/components/sensor/dsmr.html) from [ESPHome](https://esphome.io/).
 
 <p align="center">
   <img height="30px" src="https://esphome.io/_static/logo-text.svg">
@@ -72,7 +72,7 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 
 
 ### Sponsors
- Liked any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
+ Did you like any of my PCB KiCad Designs? Help and Support my open work by becoming a GitHub sponsor. Starts with only $1 / 1€.
 
 <p align="center">
     <a href="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/become_a_sponsor/aeonlabs-github-sponsorship-agreement.docx">
