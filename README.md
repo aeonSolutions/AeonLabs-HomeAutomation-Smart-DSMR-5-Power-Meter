@@ -26,7 +26,7 @@ Last update: 29-02-2024
 </p>
 
 # 🔸 Smart DSMR 5+ PowerMeter
-💬 🆕 There's a new Discord Server for this all other projects. to Join [click here](https://discord.gg/nYe9YMKf).<br>
+💬 🆕 There's a new Discord Server for this and all other projects. To join [click here](https://discord.gg/nYe9YMKf).<br>
 
 The Smart Power Meter made for the new DSRM 5+ power meters from the utility company
 
