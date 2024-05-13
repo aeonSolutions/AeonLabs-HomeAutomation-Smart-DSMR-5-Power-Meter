@@ -26,6 +26,8 @@ Last update: 29-02-2024
 </p>
 
 # 🔸 Smart DSMR 5+ PowerMeter
+<sup> **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
+
 💬 🆕 There's a new Discord Server for this and all other projects. To join [click here](https://discord.gg/nYe9YMKf).<br>
 
 The Smart Power Meter made for the new DSRM 5+ power meters from the utility company
