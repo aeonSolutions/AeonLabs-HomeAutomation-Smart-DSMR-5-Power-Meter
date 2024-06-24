@@ -94,8 +94,10 @@ This code uses my own ESP32 C++ class libraries to expedite the development of c
 
 
 <p align="center">
+ <a href="https://github.com/Domi04151309/HomeApp">
  <img height="70" src="https://raw.githubusercontent.com/Domi04151309/HomeApp/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp">
-</p>
+ </a>
+ </p>
 
 ### Home App for Android™
 HomeApp is a small and easy to use smart home app with a simple framework. The goal of this application is to make remote execution of predefined features as easy and user-friendly as possible to help you get started with smart home technology.
