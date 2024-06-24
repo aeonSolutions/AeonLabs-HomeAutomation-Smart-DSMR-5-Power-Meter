@@ -53,8 +53,8 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 ### Hardware Specifications
 
 - ExpressIF single core XTensa LX7 microcontroller (ESP32 C3)
-- Fingerprint ID technology for validation of data power measurements and increased trustworthiness. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
-- Power consumption of only 60nA when in standby
+- Fingerprint ID technology is used to validate data power measurements and increase trustworthiness. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
+- Power consumption of only 60nA when on standby
 - USB-C connectivity with Serial UART
 - 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
 
@@ -69,6 +69,29 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
   <p align="center">
 <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
 </p>
+
+
+## OEM Firmware code
+The OEM version of the firmware code can be found in the folder **firmware code**.  It has by default OTA updates, meaning this smart switch device automatically updates itself when newer updated versions are made available here.  
+This code uses my own ESP32 C++ class libraries to expedite the development of code for ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+
+
+<p align="center">
+ <img height="70" src="https://raw.githubusercontent.com/Domi04151309/HomeApp/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp">
+</p>
+
+### Home App for Android™
+HomeApp is a small and easy to use smart home app with a simple framework. The goal of this application is to make remote execution of predefined features as easy and user-friendly as possible to help you get started with smart home technology.
+
+<p align="center">
+<a href="https://f-droid.org/packages/io.github.domi04151309.home">
+  <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+  alt="Get it on F-Droid"
+  height="80"/>
+</a>
+</p>
+
+<br>
 
 <br>
 
