@@ -70,7 +70,7 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 ### Hardware Specifications
 
 - ExpressIF single core XTensa LX7 microcontroller (ESP32 C3)
-- Fingerprint ID technology is used to validate data power measurements and increase trustworthiness. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
+- with built-in Fingerprint ID technology used to validate data power measurements that can be used in cases of legal dispute. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
 - Power consumption of only ~320nA when on standby
 - USB-C connectivity with Serial UART
 - 2.4GHz Wireless Radio (WIFI, Bluetooth and all other protocols)
