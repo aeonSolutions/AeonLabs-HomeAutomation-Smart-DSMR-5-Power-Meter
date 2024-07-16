@@ -73,7 +73,7 @@ The Smart Power Meter made for the new DSRM 5+ power meters from the utility com
 - Fingerprint ID technology is used to validate data power measurements and increase trustworthiness. More information can be found [here](https://github.com/aeonSolutions/openScience-Smart-DAQ-to-Upload-Live-Experimental-Data-to-a-Data-Repository/wiki).
 - Power consumption of only 60nA when on standby
 - USB-C connectivity with Serial UART
-- 2.4GHz Wireless Radio (WWIFI, BLutooth and all others)
+- 2.4GHz Wireless Radio (WIFI, Bluetooth and all other protocols)
 
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status: The  Smart DSMR 5+ PowerMeter is fully working.
